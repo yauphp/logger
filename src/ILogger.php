@@ -23,4 +23,3 @@ interface ILogger
      */
     function logException(\Exception $ex, $prefix="ex");
 }
-
