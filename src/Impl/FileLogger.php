@@ -1,5 +1,5 @@
 <?php
-namespace Yauphp\Logger\Internal;
+namespace Yauphp\Logger\Impl;
 
 use Yauphp\Logger\ILogger;
 use Yauphp\Common\IO\File;
